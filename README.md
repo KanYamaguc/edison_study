@@ -1,5 +1,13 @@
 # edison_study
 
+### 構成
+
+edison arudinoボード  
+grove　スターターキット
+
+やること：デジタルセンサで受け取って何かするもの
+
+
 init
 
 ```
